@@ -13,10 +13,15 @@ Chaque composant inclut un bouton **“Recharger les données”** pour relancer
 ## Installation
 
 src/
+
 │
+
 ├─ FetchData.js       # Composant Fetch API
+
 ├─ AxiosData.js       # Composant Axios
+
 ├─ App.js             # Composant principal qui affiche FetchData et AxiosData
+
 └─ index.js           # Point d’entrée React
 
 ## Capture d’écran
