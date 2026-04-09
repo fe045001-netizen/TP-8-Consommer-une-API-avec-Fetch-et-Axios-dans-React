@@ -26,9 +26,10 @@ src/
 
 ## Capture d’écran
 
+<img width="1366" height="725" alt="Capture d’écran 2026-04-08 191530" src="https://github.com/user-attachments/assets/5d6ddc38-2329-406f-8021-c3323b910361" />
 
-<img width="1366" height="768" alt="Capture d’écran 2026-04-08 191530" src="https://github.com/user-attachments/assets/d18fb0cd-eb48-468e-9445-31cb0748f436" />
+
+<img width="1366" height="649" alt="Capture d’écran 2026-04-08 193107" src="https://github.com/user-attachments/assets/99163cbf-31ed-4329-b8ed-3e690d42ae0d" />
 
 
-<img width="1366" height="660" alt="Capture d’écran 2026-04-08 193107" src="https://github.com/user-attachments/assets/6853e063-0db9-4a6f-a51d-2b2ae1af41da" />
 
